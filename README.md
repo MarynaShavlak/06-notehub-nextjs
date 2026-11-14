@@ -6,6 +6,8 @@ Next.js (App Router). Застосунок має кілька сторінок:
 створення та видалення нотаток) і сторінку з деталями окремої нотатки. Дані
 зберігаються на бекенді [NoteHub API](https://notehub-public.goit.study/api/docs).
 
+**Демо:** https://06-notehub-nextjs-vert-sigma.vercel.app
+
 ## Маршрути
 
 - `/` — головна сторінка із загальною інформацією про NoteHub
