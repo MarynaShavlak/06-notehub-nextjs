@@ -42,10 +42,10 @@ app/
 └── notes/
     ├── page.tsx
     ├── Notes.client.tsx
-    ├── NoteDetails.client.tsx
     ├── error.tsx
     └── [id]/
         ├── page.tsx
+        ├── NoteDetails.client.tsx
         └── error.tsx
 components/
 ├── EmptyState/
